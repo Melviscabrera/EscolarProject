@@ -1,0 +1,14 @@
+C:\Users\mcabrera\source\repos\EscolarProject\EscolarProject\bin\Debug\netcoreapp2.1\EscolarProject.deps.json
+C:\Users\mcabrera\source\repos\EscolarProject\EscolarProject\bin\Debug\netcoreapp2.1\EscolarProject.runtimeconfig.json
+C:\Users\mcabrera\source\repos\EscolarProject\EscolarProject\bin\Debug\netcoreapp2.1\EscolarProject.runtimeconfig.dev.json
+C:\Users\mcabrera\source\repos\EscolarProject\EscolarProject\bin\Debug\netcoreapp2.1\EscolarProject.dll
+C:\Users\mcabrera\source\repos\EscolarProject\EscolarProject\bin\Debug\netcoreapp2.1\EscolarProject.pdb
+C:\Users\mcabrera\source\repos\EscolarProject\EscolarProject\obj\Debug\netcoreapp2.1\EscolarProject.csprojAssemblyReference.cache
+C:\Users\mcabrera\source\repos\EscolarProject\EscolarProject\obj\Debug\netcoreapp2.1\EscolarProject.csproj.CoreCompileInputs.cache
+C:\Users\mcabrera\source\repos\EscolarProject\EscolarProject\obj\Debug\netcoreapp2.1\EscolarProject.RazorAssemblyInfo.cache
+C:\Users\mcabrera\source\repos\EscolarProject\EscolarProject\obj\Debug\netcoreapp2.1\EscolarProject.RazorAssemblyInfo.cs
+C:\Users\mcabrera\source\repos\EscolarProject\EscolarProject\obj\Debug\netcoreapp2.1\EscolarProject.AssemblyInfoInputs.cache
+C:\Users\mcabrera\source\repos\EscolarProject\EscolarProject\obj\Debug\netcoreapp2.1\EscolarProject.AssemblyInfo.cs
+C:\Users\mcabrera\source\repos\EscolarProject\EscolarProject\obj\Debug\netcoreapp2.1\EscolarProject.RazorTargetAssemblyInfo.cache
+C:\Users\mcabrera\source\repos\EscolarProject\EscolarProject\obj\Debug\netcoreapp2.1\EscolarProject.dll
+C:\Users\mcabrera\source\repos\EscolarProject\EscolarProject\obj\Debug\netcoreapp2.1\EscolarProject.pdb
